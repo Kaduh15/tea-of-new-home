@@ -12,6 +12,10 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        gwendolyn: ["var(--font-Gwendolyn-sans)"],
+        arapey: ["var(--font-Arapey-sans)"],
+      },
     },
   },
   plugins: [],
